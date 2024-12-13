@@ -336,9 +336,6 @@ function App() {
                         school: "The Academic College of Tel Aviv Yafo",
                         period: "2017 - 2020",
                         achievements: [
-                          "Excellence in Software Engineering",
-                          "Advanced Algorithms & Data Structures",
-                          "Computer Networks & Security"
                         ]
                       },
                       {
@@ -354,9 +351,6 @@ function App() {
                         details: "Physics, Chemistry and Math",
                         period: "2009 - 2012",
                         achievements: [
-                          "Advanced Mathematics",
-                          "Physics & Chemistry Focus",
-                          "Academic Excellence"
                         ]
                       }
                     ].map((item, index) => (
